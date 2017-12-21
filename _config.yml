@@ -1,2 +1,3 @@
 name: X, asshole
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
