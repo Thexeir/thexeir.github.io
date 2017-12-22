@@ -1,4 +1,4 @@
 name: Mithril Hall Database
 markdown: kramdown
-permalink: /creature/:title
+permalink: /entry/:title
 theme: jekyll-theme-slate
