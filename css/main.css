@@ -6,7 +6,7 @@ body {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #999999;
 }
 a:hover {
     text-decoration: underline;
@@ -22,7 +22,7 @@ h2 {
 p {
     font-size: 2.4em;
     line-height: 2.2em;
-    color: #333;
+    color: #999999;
 }
 nav ul, footer ul {
     padding: 0em;
