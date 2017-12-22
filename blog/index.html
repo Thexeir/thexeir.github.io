@@ -14,3 +14,21 @@ layout: default
 	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
+	<h2>Items</h2>
+	<ul class="posts">
+	  {% for post in site.tags.item %}
+	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
+	<h2>Spells</h2>
+	<ul class="posts">
+	  {% for post in site.tags.spell %}
+	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
+	<h2>Feats</h2>
+	<ul class="posts">
+	  {% for post in site.tags.feat %}
+	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
