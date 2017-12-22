@@ -2,7 +2,9 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
-<h2>Tags: {{ page.tags }}</h2>
+<d1 class="tag-list">
+<dt>Tags:</dt>
+{% for tag in page.tags %}
 <div class="post">
   {{ content }}
 </div>
