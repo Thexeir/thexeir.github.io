@@ -23,6 +23,8 @@ tags: [dwarf, pc, mithril-hall]
 
 **Magical Items** +1 Axe of Axiness, Cloak of Billowing
 
+**Feats Awarded** None
+
 **Adventures** Sexy Tentacle Quest, Completed 12/21/2017 (1 Token); The Quest to find the Mithril Warhamme, Incomplete (.5 Tokens)
 
 **Time Passive** 0 Weeks
