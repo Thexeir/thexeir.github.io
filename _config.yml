@@ -1,3 +1,4 @@
 name: Mithril Hall Database
 markdown: kramdown
 permalink: /creature/:year/:month/:day/:title
+theme: jekyll-theme-slate
