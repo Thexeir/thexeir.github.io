@@ -2,7 +2,7 @@
 layout: post
 title: "Mic McTan"
 date: 2017-12-21
-tags: [dwarf, pc, mithril-hall]
+tags: [dwarf, pc, mithrilhall, mithrilco]
 ---
 
 **Dwarf Druid**
