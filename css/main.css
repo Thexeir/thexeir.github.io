@@ -39,6 +39,7 @@ nav ul li, footer ul li {
 dl {
     font-size: 1.2em;
 }
+}
 dl dd {
     font-size: 1.2em;
     float: left;
@@ -51,6 +52,8 @@ dt {
     font-size: 1.2em;
     margin-right: .5em;
 }
+.nav-list {
+    float: none
 ul.posts {  
     font-size: 1.6em;
     margin: 0 0 1.5em 0;
