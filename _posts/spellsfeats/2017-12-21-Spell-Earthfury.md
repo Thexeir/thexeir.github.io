@@ -7,14 +7,14 @@ tags: [spell]
 
 **Conjuration cantrip**
 
-**Class Restrictions**: Druid, Wizard, Sorcerer, Warlock
+**Class Restrictions:** Druid, Wizard, Sorcerer, Warlock
 
-**Casting Time**: 1 action
+**Casting Time:** 1 action
 
-**Range**: 60 feet
+**Range:** 60 feet
 
-**Components**: V, S
+**Components:** V, S
 
-**Duration**: Instantaneous
+**Duration:** Instantaneous
 
 You shake the earth, making it all shakey-like. Rumble bumble.
