@@ -7,7 +7,7 @@ tags: [item]
 
 ***The Mithril Stormhammer***
 
-*Weapon (warhammer), very rare
+*Weapon (warhammer), very rare*
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon.
 
