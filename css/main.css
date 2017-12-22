@@ -40,7 +40,7 @@ dl {
     font-size: 1.2em;
 }
 
-dl ul {
+dl dd {
     font-size: 1.2em;
     float: left;
     display: block;
