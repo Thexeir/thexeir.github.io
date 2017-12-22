@@ -1,12 +1,12 @@
-- name: Player Character
-  tag: pc
-- name: Non-Player Character
-  tag: npc
 - name: Creature
   tag: creature
-- name: Item
-  tag: item
-- name: Spell
-  tag: spell
 - name: Feature
   tag: feat
+- name: Item
+  tag: item
+- name: Non-Player Character
+  tag: npc
+- name: Player Character
+  tag: pc
+- name: Spell
+  tag: spell

@@ -2,10 +2,32 @@
 layout: default
 title: Mithril Company Database
 ---
-	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+<div class="home">
+  <h1 class="page-heading">All Creatures</h1>
+  <p id="creatureSearch">Search by name: <input type="search" id="jetsSearch"></p>
+  <p id="sortBy">Sort By: <a href="{{site.baseurl}}/">CR</a> <a href="{{site.baseurl}}/byname">name</a></p>
+  <dl class="tag-list">
+    <dt>Challenge Rating:</dt>
+    {% for type in site.data.type %}
+    <dd>
+      <a href="#{{type.tag}}">{{type.name}}</a>
+    </dd>
+    {% endfor %}
+  </dl>
+  {% for type in site.data.type %}
+    <a id="{{type.tag}}"></a>
+    <h2 class="post-list-head jetsHide">{{type.title}}</h2>
+    <ul class="post-list jetsContent">
+      {% assign post_list = site.tags.[{{type.tag}}] | sort: 'title' %}
+      {% for post in post_list %}
+        <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+    <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+  {% endfor %}
 
-	  {% for post in site.posts %}
-	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
