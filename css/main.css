@@ -39,13 +39,17 @@ nav ul li, footer ul li {
 dl {
     font-size: 1.2em;
 }
-
 dl dd {
     font-size: 1.2em;
     float: left;
     display: block;
     margin: 0 10px 0 0;
     padding: 0;
+}
+dt {
+    float:left;
+    font-size: 1.2em;
+    margin-right: .5em;
 }
 ul.posts {  
     font-size: 1.6em;
@@ -57,33 +61,27 @@ ul.posts li {
     margin: 0; 
     padding: 0;
 }
-
 .post-title{
     font-size:2.4em;
 }
-
 article p {
     font-size: 1.2em;
 }
-
 header {
-    padding: 0 0 1em 0;
+    padding: 0 0 3em 0;
     border-bottom: .1em solid #d5d5d5;
+    margin-bottom: 20px;
 }
-
 table {
     border: .1em solid #d5d5d5;
 }
-
 td {
     border-top: .1em solid #eeeeee;
     padding: 1em;
 }
-
 strong {
 	margin-right: 1em
 }
-
 footer {
     padding: .5em 0 0 0;
     margin: 7em 0 0 0;
