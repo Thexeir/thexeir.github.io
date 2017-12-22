@@ -21,7 +21,7 @@ tags: [dwarf, pc, mithrilhall, mithrilco]
 
 **Gold** 3
 
-**Magical Items** +1 Soupspoon, Ear Horn of Hearing
+**Magical Items** Soupspoon +1, Ear Horn of Hearing
 
 **Feats Awarded** None
 
