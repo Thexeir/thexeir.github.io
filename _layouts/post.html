@@ -8,9 +8,9 @@ layout: default
     <dl class="tag-list">
     <dt>Tags:</dt>
     {% for tag in page.tags %}
-    <dd>
+    <ul>
           <a href="{{site.baseurl}}/tags/{{tag}}.html">{{tag}}</a>
-    </dd>
+    </ul>
     {% endfor %}
   </header>
 

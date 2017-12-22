@@ -28,7 +28,7 @@ h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
+    font-size: 1em;
     line-height: 1em;
     color: #333;
 }
@@ -37,12 +37,16 @@ footer {
     font-size: .8em;
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1em;
 }
-
 ul.posts li {
     list-style: none;
+}
+li {
+    > ul,
+    > ol {
+         margin-bottom: 0;
+    }
 }
