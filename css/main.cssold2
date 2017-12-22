@@ -6,7 +6,7 @@ body {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #999999;
 }
 a:hover {
     text-decoration: underline;
@@ -22,7 +22,7 @@ h2 {
 p {
     font-size: 2.4em;
     line-height: 2.2em;
-    color: #333;
+    color: #999999;
 }
 nav ul, footer ul {
     padding: 0em;
@@ -36,17 +36,6 @@ nav ul li, footer ul li {
     margin: 0; 
     padding: 0;
 }
-dl {
-    font-size: 1.2em;
-}
-
-dl ul {
-    font-size: 1.2em;
-    float: left;
-    display: block;
-    margin: 0 10px 0 0;
-    padding: 0;
-}
 ul.posts {  
     font-size: 1.6em;
     margin: 0 0 1.5em 0; 
@@ -57,29 +46,6 @@ ul.posts li {
     margin: 0; 
     padding: 0;
 }
-
-.post-title{
-    font-size:2.4em;
-}
-
-article p {
-    font-size: 1.2em;
-}
-
-header {
-    padding: 0 0 1em 0;
-    border-bottom: .1em solid #d5d5d5;
-}
-
-table {
-    border: .1em solid #d5d5d5;
-}
-
-td {
-    border-top: .1em solid #eeeeee;
-    padding: 1em;
-}
-
 footer {
     padding: .5em 0 0 0;
     margin: 7em 0 0 0;
