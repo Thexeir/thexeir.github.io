@@ -4,9 +4,8 @@ layout: default
 <div class="home">
   <h1 class="page-heading">All Creatures</h1>
   <p id="creatureSearch">Search by name: <input type="search" id="jetsSearch"></p>
-  <p id="sortBy">Sort By: <a href="{{site.baseurl}}/">CR</a> <a href="{{site.baseurl}}/byname">name</a></p>
   <dl class="tag-list">
-    <dt>Challenge Rating:</dt>
+    <dt>Type:</dt>
     {% for type in site.data.type %}
     <dd>
       <a href="#{{type.tag}}">{{type.name}}</a>
@@ -26,7 +25,5 @@ layout: default
     </ul>
     <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
   {% endfor %}
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
