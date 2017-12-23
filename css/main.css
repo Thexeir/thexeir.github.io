@@ -13,7 +13,7 @@ a:hover {
 }
 h1 {
     font-size: 2.4em;
-    margin: 0 0 2em 0;
+    margin: 0 0 0 0;
 }
 h2 {
 	font-size: 1.8em;
@@ -33,7 +33,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin: 0; 
+    margin: 0;
     padding: 0;
 }
 dl {
@@ -54,17 +54,14 @@ dt {
 .nav-list {
     float: none;
 }
-.indexbody {
-	float: none;
-}
-ul.posts { 
+ul.posts {
     font-size: 1.6em;
     margin: 0 0 1.5em 0;
     padding: 0;
 }
 ul.posts li {
     list-style: none;
-    margin: 0; 
+    margin: 0;
     padding: 0;
 }
 article p {
