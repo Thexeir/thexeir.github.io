@@ -11,9 +11,10 @@ title: Mithril Company Database
 	</ul>
 	<h2>Non-Player Characters</h2>
 	<ul class="posts">
-	  {% assign sorted = (site.tags.npc | sort: 'title')}
-	  {% for item in sorted %}
-	    <li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
-	  {% endfor %}
+	<ul>
+    {% assign sorted = (site.tags.npc | sort: 'date') | reverse %}
+    {% for item in sorted %}
+    <li>{{ item.title }}</li>
+    {% endfor %}
 	</ul>
 </div>
