@@ -12,8 +12,8 @@
       </a>
 
       <div id="menu" class="trigger">
-        {% for creatureType in site.data.types %}
-          <a class="page-link" href="{{site.baseurl}}/tags/{{creatureType.tag}}.html">{{ creatureType.name }}</a>
+        {% for spellClass in site.data.classes %}
+          <a class="page-link" href="{{site.baseurl}}/tags/{{spellClass.tag}}.html">{{ spellClass.name }}</a>
         {% endfor %}
       </div>
     </nav>
@@ -21,3 +21,4 @@
   </div>
 
 </header>
+
