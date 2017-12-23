@@ -9,17 +9,17 @@ layout: default
   <p id="sourceSearch">Search by source: <input type="search" name="sourceSearch" id="sourceSearchBar" class="jetsSearch"></p>
    <dl class="tag-list">
     <dt>Spell tier:</dt>
-    {% for level in site.data.levels %}
+    {% for level in site.data.race %}
     <dd>
-      <a href="#{{level.tag}}">{{level.name}}</a>
+      <a href="#{{level.tag}}">{{race.name}}</a>
     </dd>
     {% endfor %}
   </dl>
-  {% for level in site.data.levels %}
+  {% for level in site.data.race %}
     <a id="{{level.tag}}"></a>
     <h2 class="post-list-head jetsHide">{{level.title}}</h2>
     <ul class="post-list jetsContent">
-      {% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
+      {% assign post_list = site.tags.[{{race.tag}}] | sort: 'title' %}
       {% for post in post_list %}
         <li data-tags="{{ post.tags | join: ',' }}" data-sources="{{ post.sources | join: ',' }}">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>

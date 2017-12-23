@@ -1,13 +1,21 @@
+- name: Barbarian
+  tag: barbarian
 - name: Bard
   tag: bard
 - name: Cleric
   tag: cleric
 - name: Druid
   tag: druid
+- name: Fighter
+  tag: fighter
+- name: Monk
+  tag: monk
 - name: Paladin
   tag: paladin
 - name: Ranger
   tag: ranger
+- name: Rogue
+  tag: rogue
 - name: Sorcerer
   tag: sorcerer
 - name: Warlock
