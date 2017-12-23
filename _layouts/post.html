@@ -5,16 +5,14 @@ layout: default
 
   <header class="post-header">
     <h2 class="post-title">{{ page.title }}</h2>
-    <dl class="tag-list">
-		<dt>Tags:</dt>
+	<div class=tag-list>
+	<h3><s>Tags:</s>
 		{% for tag in page.tags %}
-			<dd>
-				<a href="{{site.baseurl}}/tags/{{tag}}.html">{{tag}}</a> <b>|</b>
-			</dd>
+		<a href="{{site.baseurl}}/tags/{{tag}}.html">{{tag}}</a> <b>|</b>
 		{% endfor %}
-	</dl>
+	</h3>
+	</div>
   </header>
-
   <article class="post-content">
     {{ content }}
   </article>
