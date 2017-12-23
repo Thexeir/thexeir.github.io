@@ -1,0 +1,90 @@
+body {
+    margin: 30px auto;
+    width: 70%;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+a {
+    text-decoration: none;
+    color: #999999;
+}
+a:hover {
+	color: #666666;
+}
+h1 {
+    font-size: 2.4em;
+    margin: 0 0 2em 0;
+}
+h2 {
+	font-size: 1.8em;
+	margin: 10px 0px 0px 0px;
+}
+p {
+    font-size: 2.4em;
+    line-height: 2.2em;
+    color: #333333;
+}
+nav ul, footer ul {
+    padding: 0em;
+    list-style: none;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin: 0; 
+    padding: 0;
+}
+dl {
+    font-size: 1.2em;
+}
+dl dd {
+    font-size: 1.2em;
+    float: left;
+    display: block;
+    margin: 0 10px 0 0;
+    padding: 0;
+}
+dt {
+    float: left;
+    font-size: 1.2em;
+    margin-right: .5em;
+}
+.nav-list {
+    float: none;
+}
+ul.posts { 
+    font-size: 1.6em;
+    margin: 0 0 1.5em 0;
+    padding: 0;
+}
+ul.posts li {
+    list-style: none;
+    margin: 0; 
+    padding: 0;
+}
+article p {
+    font-size: 1.2em;
+}
+header {
+    padding: 0 0 3em 0;
+    border-bottom: .1em solid #d5d5d5;
+    margin-bottom: 20px;
+}
+table {
+    border: .1em solid #d5d5d5;
+}
+td {
+    border-top: .1em solid #eeeeee;
+    padding: 1em;
+}
+strong {
+	margin-right: 1em
+}
+footer {
+    padding: .5em 0 0 0;
+    margin: 7em 0 0 0;
+    border-top: .1em solid #d5d5d5;
+    font-size: 1.4em;
+}

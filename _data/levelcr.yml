@@ -1,0 +1,162 @@
+- tag: cr0
+  name: 0
+  title: Challenge 0
+- tag: cr1/8
+  name: 1/8
+  title: Challenge 1/8
+- tag: cr1/4
+  name: 1/4
+  title: Challenge 1/4
+- tag: cr1/2
+  name: 1/2
+  title: Challenge 1/2
+- tag: cr1
+  name: 1
+  title: Challenge 1
+- tag: cr2
+  name: 2
+  title: Challenge 2
+- tag: cr3
+  name: 3
+  title: Challenge 3
+- tag: cr4
+  name: 4
+  title: Challenge 4
+- tag: cr5
+  name: 5
+  title: Challenge 5
+- tag: cr6
+  name: 6
+  title: Challenge 6
+- tag: cr7
+  name: 7
+  title: Challenge 7
+- tag: cr8
+  name: 8
+  title: Challenge 8
+- tag: cr9
+  name: 9
+  title: Challenge 9
+- tag: cr10
+  name: 10
+  title: Challenge 10
+- tag: cr11
+  name: 11
+  title: Challenge 11
+- tag: cr12
+  name: 12
+  title: Challenge 12
+- tag: cr13
+  name: 13
+  title: Challenge 13
+- tag: cr14
+  name: 14
+  title: Challenge 14
+- tag: cr15
+  name: 15
+  title: Challenge 15
+- tag: cr16
+  name: 16
+  title: Challenge 16
+- tag: cr17
+  name: 17
+  title: Challenge 17
+# - tag: cr18
+#   name: 18
+#   title: Challenge 18
+- tag: cr19
+  name: 19
+  title: Challenge 19
+- tag: cr20
+  name: 20
+  title: Challenge 20
+- tag: cr21
+  name: 21
+  title: Challenge 21
+- tag: cr22
+  name: 22
+  title: Challenge 22
+- tag: cr23
+  name: 23
+  title: Challenge 23
+- tag: cr24
+  name: 24
+  title: Challenge 24
+# - tag: cr25
+#   name: 25
+#   title: Challenge 25
+# - tag: cr26
+#   name: 26
+#   title: Challenge 26
+# - tag: cr27
+#   name: 27
+#   title: Challenge 27
+# - tag: cr28
+#   name: 28
+#   title: Challenge 28
+# - tag: cr29
+#   name: 29
+#   title: Challenge 29
+- tag: cr30
+  name: 30
+  title: Challenge 30
+- tag: lvl01
+  name: L1
+  title: Level 1
+- tag: lvl02
+  name: L2
+  title: Level 2
+- tag: lvl03
+  name: L3
+  title: Level 3
+- tag: lvl04
+  name: L4
+  title: Level 4
+- tag: lvl05
+  name: L5
+  title: Level 5
+- tag: lvl06
+  name: L6
+  title: Level 6
+- tag: lvl07
+  name: L7
+  title: Level 7
+- tag: lvl08
+  name: L8
+  title: Level 8
+- tag: lvl09
+  name: L9
+  title: Level 9
+- tag: lvl10
+  name: L10
+  title: Level 10
+- tag: lvl11
+  name: L11
+  title: Level 11
+- tag: lvl12
+  name: L12
+  title: Level 12
+- tag: lvl13
+  name: L13
+  title: Level 13
+- tag: lvl14
+  name: L14
+  title: Level 14
+- tag: lvl15
+  name: L15
+  title: Level 15
+- tag: lvl16
+  name: L16
+  title: Level 16
+- tag: lvl17
+  name: L17
+  title: Level 17
+- tag: lvl18
+  name: L18
+  title: Level 18
+- tag: lvl19
+  name: L19
+  title: Level 19
+- tag: lvl20
+  name: L20
+  title: Level 20

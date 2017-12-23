@@ -1,0 +1,26 @@
+- name: Waterdeep
+  tag: waterdeep
+- name: Neverwinter
+  tag: neverwinter
+- name: Mirabar
+  tag: mirabar
+- name: Balder's Gate
+  tag: baldersgate
+- name: Mitrhil Hall
+  tag: mithrilhall
+- name: Fjallhammer
+  tag: fjallhammer
+- name: Mithril Company
+  tag: mithrilco
+- name: Beaudry's Beauty Supplies
+  tag: beaudrybs
+- name: Harpers
+  tag: harpers
+- name: Emerald Enclave
+  tag: emeraldenclave
+- name: Zhentarim
+  tag: zhentarim
+- name: Order of the Gauntlet
+  tag: ordergauntlet
+- name: Lord's Alliance
+  tag: lordsalliance

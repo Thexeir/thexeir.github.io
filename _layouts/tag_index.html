@@ -9,27 +9,25 @@
 	<div class="page-content">
 		<div class="wrapper">
 			<h1 class="page-heading">{{page.title}}</h1>
-			<p id="spellSearch">Search by name: <input type="search" id="jetsSearch" class="jetsSearch"></p>
-			<p id="tagSearch">Search by tag: <input type="search" name="tagSearch" id="tagSearchBar" class="jetsSearch"></p>
-			<p id="sourceSearch">Search by source: <input type="search" name="sourceSearch" id="sourceSearchBar" class="jetsSearch"></p>
+			<p id="creatureSearch">Search by name: <input type="search" id="jetsSearch"></p>
 			<dl class="tag-list">
-				<dt>Spell tier:</dt>
-				{% for level in site.data.levels %}
+				<dt>Challenge Rating:</dt>
+				{% for level in site.data.levelcr %}
 				<dd>
-					<a href="#{{level.tag}}">{{level.name}}</a>
+					<a href="#{{level.tag}}">{{levelcr.name}}</a>
 				</dd>
 				{% endfor %}
 			</dl>
 
-			{% for level in site.data.levels %}
+			{% for level in site.data.levelcr %}
 			<a id="{{level.tag}}"></a>
-			<h2 class="post-list-head jetsHide">{{level.title}}</h2>
-			{% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
+			<h2 class="post-list-head jetsHide">{{levelcr.title}}</h2>
+			{% assign post_list = site.tags.[{{levelcr.tag}}] | sort: 'title' %}
 			{% for post in post_list %}
 			{% for tag in post.tags %}
 			{% if tag == page.tag %}
 			<ul class="post-list jetsContent">
-				<li data-tags="{{ post.tags | join: ',' }}" data-sources="{{ post.sources | join: ',' }}">
+				<li>
 					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 				</li>
 			</ul>
