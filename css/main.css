@@ -54,6 +54,9 @@ dt {
 .nav-list {
     float: none;
 }
+.indexbody {
+	float: none;
+}
 ul.posts { 
     font-size: 1.6em;
     margin: 0 0 1.5em 0;
