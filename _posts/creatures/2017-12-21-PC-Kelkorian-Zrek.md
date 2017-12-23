@@ -30,3 +30,11 @@ tags: [dwarf, pc, mithrilhall, mithrilco]
 **Time Passive** 0 Weeks
 
 **Hot Dogs Eaten** 9001
+
+### Biography
+He loves his cloak, it billows so well.
+
+### Description
+He's all bearded and bald and awesome.
+
+#### Created and played by Chris aka Xeir

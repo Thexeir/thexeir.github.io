@@ -30,3 +30,11 @@ tags: [dwarf, pc, mithrilhall, mithrilco]
 **Time Passive** 0 Weeks
 
 **Soups Eaten** 99999
+
+### Biography
+Souper extraodinaire.
+
+### Description
+He's all short and has some sort of beard.
+
+#### Created and played by Jeff aka McTan
