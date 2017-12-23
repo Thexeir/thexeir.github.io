@@ -12,8 +12,7 @@ title: Mithril Company Database
     {% endfor %}
 	</dl>
 	<ul class="posts">
-	  {% for post in site.tags.pc %}
-	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% for post in site.tags.type %}
+	    <li><a href="{{ tag.url }}" title="{{ tag.title }}">{{ tag.title }}</a></li>
 	  {% endfor %}
-	</ul>
 </div>
