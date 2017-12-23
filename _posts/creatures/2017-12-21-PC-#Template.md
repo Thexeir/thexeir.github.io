@@ -2,7 +2,7 @@
 layout: post
 title: "#Template"
 date: 2017-12-21
-tags: []
+tags: [pc]
 ---
 
 **Race Class**

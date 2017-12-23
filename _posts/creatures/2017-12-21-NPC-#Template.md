@@ -2,7 +2,7 @@
 layout: post
 title: "Durim"
 date: 2017-12-21
-tags: []
+tags: [npc]
 ---
 
 **Bio** A biography.
