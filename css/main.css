@@ -41,7 +41,7 @@ dl {
 }
 dl dd {
     font-size: 1.2em;
-    float: left;
+    float: none;
     display: block;
     margin: 0 10px 0 0;
     padding: 0;
@@ -50,9 +50,6 @@ dt {
     float: left;
     font-size: 1.2em;
     margin-right: .5em;
-}
-.nav-list {
-    float: none;
 }
 ul.posts {
     font-size: 1.6em;
