@@ -5,16 +5,18 @@ date: 2017-12-21
 tags: [spell]
 ---
 
-**Conjuration cantrip**
+**SpellSchool SpellLevel**
 
-**Class Restrictions:** Druid, Wizard, Sorcerer, Warlock
+**Class Restrictions:** Classes that have access to this spell
 
-**Casting Time:** 1 action
+**Casting Time:** X
 
-**Range:** 60 feet
+**Range:** X
 
-**Components:** V, S
+**Components:** (V, S, M*)
 
-**Duration:** Instantaneous
+**Duration:** X
 
-You shake the earth, making it all shakey-like. Rumble bumble.
+Descriptive text.
+
+*At Higher Levels.* What the spell does if it is cast using higher level spell slots.

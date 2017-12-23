@@ -16,39 +16,26 @@ tags: [npc]
 // Stat Block if the Character Require it
 
 ---
-> ## Queen the Spirit Raven
->*Tiny beast, true neutral*
->
-> - **Armor Class** 12
-> - **Hit Points** 1 (1d4-1)
-> - **Speed** 10 ft., fly 50 ft.
+> ## NPC Name
+>*size classification, alignment*
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|2 (-4)|14 (+2)|8 (-1)|2 (-4)|12 (+1)|6 (-2)|
+|XX (-X)|XX (+X)|XX (-X)|XX (-X)|XX (+X)|XX (-X)|
 
-> - **Skills** Perception +3
-> - **Senses** passive Perception 13
+> - **Armor Class** AC
+> - **Hit Points** X (XdX+X)
+> - **Speed** X ft.
+> - **Skills** Perception +X
+> - **Senses** passive Perception XX
 > - **Languages** —
 >
-> ***Mimicry. *** The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
+> ***Ability. *** This is the text for an ability.
 > ### Actions
-> ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+> ***Fist.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. Hit: 1 fist damage.
 
 ---
 
-**Level** 10
+**Magical Items** A list of items the creature has, and if they can drop them on death.
 
-**HP** 100
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 21 (+5) | 9 (-1) | 15 (+2) | 18 (+4) | 15 (+2) | 18 (+4) |
-
-**Languages** common, dwarf
-
-**Gold** 1
-
-**Magical Items** Warhammer +1, Shield +1
-
-**Feats Awarded** None
+**Other Information** Any other information deemed nessisary.

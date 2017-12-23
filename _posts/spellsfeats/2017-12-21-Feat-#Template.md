@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Grudge Rage"
+title: "#Feat Template"
 date: 2017-12-21
 tags: [feat]
 ---
 
-**Prerequisite:** Dwarf (Mithril Hall survivor)
+**Prerequisite:** (If any list here, otherwise remove)
 
-Once per day you may rage, as the barbarian feature.
+Descriptive text.
