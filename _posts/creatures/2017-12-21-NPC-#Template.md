@@ -13,7 +13,7 @@ tags: [npc]
 
 **Race Class(If applicable)**
 
-// Stat Block if the Character Require it
+// Stat block if the character requires it
 
 ---
 > ## NPC Name
