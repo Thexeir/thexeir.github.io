@@ -10,7 +10,6 @@ a {
 }
 a:hover {
 	color: #666666;
-    text-decoration: none;
 }
 h1 {
     font-size: 2.4em;
@@ -48,7 +47,7 @@ dl dd {
     padding: 0;
 }
 dt {
-    float:left;
+    float: left;
     font-size: 1.2em;
     margin-right: .5em;
 }
