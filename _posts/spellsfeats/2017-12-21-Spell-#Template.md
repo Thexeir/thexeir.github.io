@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Earthfury"
+title: "#Spell Template"
 date: 2017-12-21
 tags: [spell]
 ---
