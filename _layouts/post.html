@@ -6,9 +6,9 @@ layout: default
   <header class="post-header">
     <h2 class="post-title">{{ page.title }}</h2>
 	<div class=tag-list>
-	<h3><s>Tags:</s>
+	<h3><b>Tags:</b>
 		{% for tag in page.tags %}
-		<a href="{{site.baseurl}}/tags/{{tag}}.html">{{tag}}</a> <b>|</b>
+		<a href="{{site.baseurl}}/tags/{{tag}}.html">{{tag}}</a>
 		{% endfor %}
 	</h3>
 	</div>
