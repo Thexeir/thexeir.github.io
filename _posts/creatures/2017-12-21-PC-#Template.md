@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#Template"
+title: "#PC Template"
 date: 2017-12-21
 tags: [pc]
 ---

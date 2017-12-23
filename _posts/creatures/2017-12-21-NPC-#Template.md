@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Durim"
+title: "#NPC Template"
 date: 2017-12-21
 tags: [npc]
 ---
