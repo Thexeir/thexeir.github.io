@@ -1,0 +1,19 @@
+---
+layout: default
+title: Mithril Company Database
+---
+<div class="home">
+	<dl class="tag-list">
+    <dt>Tags:</dt>
+    {% for tag in page.tags %}
+    <dd>
+          <a href="{{site.baseurl}}/tags/{{tag}}.html">{{tag}}</a>
+    </dd>
+    {% endfor %}
+	</dl>
+	<ul class="posts">
+	  {% for post in site.tags.pc %}
+	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
+</div>
