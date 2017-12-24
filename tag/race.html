@@ -1,0 +1,22 @@
+---
+layout: default
+title: Mithril Company Database
+---
+<div class="home">
+	<h1>By Race
+	<h2>Dwarf</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.dwarf | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+<br>
+	<h2>Half-orc</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.halforc | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+</div>

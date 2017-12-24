@@ -1,6 +1,6 @@
 name: Mithril Hall Database
 markdown: kramdown
-permalinks: 
-    entry: /entry/:title
-    tags: /tags/:tag
+permalink: /entry/:title
 theme: jekyll-theme-slate
+tag_feed_layout: tag_feed_layout
+tag_feed_dir: tag

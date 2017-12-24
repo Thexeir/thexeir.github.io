@@ -1,0 +1,13 @@
+---
+layout: default
+title: Mithril Company Database
+---
+<div class="home">
+	<h2>Items</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.item | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+</div>
