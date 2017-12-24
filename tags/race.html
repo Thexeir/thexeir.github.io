@@ -6,7 +6,10 @@ title: Mithril Company Database
 	<h1>By Race
 	<h2>Dwarf</h2>
 	<ul class="posts">
-
+		{% assign sorted = (site.tags.dwarf | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
 	</ul>
 <br>
 	<h2>Half-orc</h2>
