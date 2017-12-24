@@ -2,5 +2,3 @@ name: Mithril Hall Database
 markdown: kramdown
 permalink: /entry/:title
 theme: jekyll-theme-slate
-tag_feed_layout: tag_feed_layout
-tag_feed_dir: tag
