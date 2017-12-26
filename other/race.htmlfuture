@@ -3,7 +3,6 @@ layout: default
 title: Mithril Company Database
 ---
 <div class="home">
-<<<<<<< HEAD
 	<h1>By Race</h1>
 <!-- 	<h2>Aarakocra</h2>
 	<ul class="posts">
@@ -44,9 +43,6 @@ title: Mithril Company Database
 			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
 		{% endfor %}
 	</ul> -->
-=======
-	<h1>By Race
->>>>>>> parent of 0eb034d... 1344
 <hr>
 	<h2>Dwarf</h2>
 	<ul class="posts">
@@ -55,7 +51,6 @@ title: Mithril Company Database
 			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
 		{% endfor %}
 	</ul>
-<<<<<<< HEAD
 <!-- 	<hr>
 	<h2>Elf</h2>
 	<ul class="posts">
@@ -121,17 +116,13 @@ title: Mithril Company Database
 		{% endfor %}
 	</ul> -->
 	<hr>
-=======
-<hr>
->>>>>>> parent of 0eb034d... 1344
 	<h2>Half-orc</h2>
-		<ul class="posts">
+	<ul class="posts">
 		{% assign sorted = (site.tags.halforc | sort: 'title') %}
 		{% for item in sorted %}
 			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
 		{% endfor %}
 	</ul>
-<<<<<<< HEAD
 <!-- <hr>
 	<h2>Hobgoblin</h2>
 	<ul class="posts">
@@ -223,6 +214,3 @@ title: Mithril Company Database
 </div>
 
 \\ 
-=======
-</div>
->>>>>>> parent of 0eb034d... 1344
