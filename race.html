@@ -5,6 +5,14 @@ title: Mithril Company Database
 <div class="home">
 	<h1>By Race</h1>
 <hr>
+	<h2>Beast</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.beast | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+<hr>
 	<h2>Dwarf</h2>
 	<ul class="posts">
 		{% assign sorted = (site.tags.dwarf | sort: 'title') %}
@@ -16,6 +24,22 @@ title: Mithril Company Database
 	<h2>Elf</h2>
 	<ul class="posts">
 		{% assign sorted = (site.tags.elf | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+<hr>
+	<h2>Half-elf</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.halfelf | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+<hr>
+	<h2>Halfling</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.halfling | sort: 'title') %}
 		{% for item in sorted %}
 			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
 		{% endfor %}
