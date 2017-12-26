@@ -13,8 +13,6 @@ tags: [dwarf, npc, mithrilco]
 
 **Dwarf Fighter**
 
-// Stat Block if the Character Require it
-
 ---
 > ## Durim Fjallhammer
 >*Medium humanoid, lawful neutral*

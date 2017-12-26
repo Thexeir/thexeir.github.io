@@ -13,6 +13,14 @@ title: Mithril Company Database
 		{% endfor %}
 	</ul>
 <hr>
+	<h2>Elf</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.elf | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+<hr>
 	<h2>Half-orc</h2>
 	<ul class="posts">
 		{% assign sorted = (site.tags.halforc | sort: 'title') %}
