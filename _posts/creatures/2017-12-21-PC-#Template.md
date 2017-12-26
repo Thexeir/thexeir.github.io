@@ -2,7 +2,7 @@
 layout: post
 title: "#PC Template"
 date: 2017-12-21
-tags: [pc]
+tags: [pc, aarakocra, aasimar, bugbear, dragon, dragonborn, dwarf, elf, firbolg, genasi, gnome, goblin, goliath, halfelf, halfing, halforc, hobgoblin, human, kenku, kobold, lizardfolk, orc, tabaxi, tiefling, tortle, triton, yuanti]
 ---
 
 **Race Class**
