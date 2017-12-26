@@ -3,7 +3,46 @@ layout: default
 title: Mithril Company Database
 ---
 <div class="home">
-	<h1>By Race
+	<h1>By Race</h1>
+	<h2>Aarakocra</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.aarakocra | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+<hr>
+	<h2>Aasimar</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.aasimar | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+	<hr>
+	<h2>Bugbear</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.bugbear | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+<hr>
+	<h2>Dragon</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.dragon | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+	<hr>
+	<h2>Dragonborn</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.dragonborn | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
 <hr>
 	<h2>Dwarf</h2>
 	<ul class="posts">
@@ -12,12 +51,166 @@ title: Mithril Company Database
 			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
 		{% endfor %}
 	</ul>
+	<hr>
+	<h2>Elf</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.elf | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
 <hr>
+	<h2>Firbolg</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.firbolg | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+	<hr>
+	<h2>Genasi</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.genasi | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+<hr>
+	<h2>Gnome</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.gnome | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+	<hr>
+	<h2>Goblin</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.goblin | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+<hr>
+	<h2>Goliath</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.goliath | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+	<hr>
+	<h2>Half-elf</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.halfelf | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+<hr>
+	<h2>Halfling</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.halfling | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+	<hr>
 	<h2>Half-orc</h2>
-		<ul class="posts">
+	<ul class="posts">
 		{% assign sorted = (site.tags.halforc | sort: 'title') %}
 		{% for item in sorted %}
 			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
 		{% endfor %}
 	</ul>
+<hr>
+	<h2>Hobgoblin</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.hobgoblin | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+	<hr>
+	<h2>Human</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.human | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+<hr>
+	<h2>Kenku</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.kenku | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+	<hr>
+	<h2>Kobold</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.kobold | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+<hr>
+	<h2>Lizardfolkh2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.lizardfolk | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+	<hr>
+	<h2>orc</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.orc | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+<hr>
+	<h2>Tabaxi</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.tabaxi | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+	<hr>
+	<h2>Tiefling</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.tiefling | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+<hr>
+	<h2>Tortle</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.tortle | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+	<hr>
+	<h2>Triton</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.triton | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+<hr>
+	<h2>Yuan-ti</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.yuanti | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
 </div>
+
+\\ 
