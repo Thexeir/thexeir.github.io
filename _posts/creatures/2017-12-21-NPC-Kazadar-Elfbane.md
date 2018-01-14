@@ -5,7 +5,7 @@ date: 2017-12-21
 tags: [dwarf, npc, mwh]
 ---
 
-**Bio** The leader of Mithril Warhammers, Kazadar was the one to slay the elven king Tar'Elithilad and for this deed he was given the name Elf-bane, formerly he was Kazadar Tallhammer.
+**Bio** The leader of Mithril Warhammers, Kazadar was the one to slay the elven king Tar'Elithilad and for this deed he was given the name Elf-bane, formerly he was Kazadar Tallhammer. He is a student of history and archaelogy and has long wanted to pursue this, but was always heavily involved in the war. When he effectively won the war the High King asked him what he desired, he told him he wanted to visit, explore and perhaps, if possible, restore the ancient clan homeland. The High King agreed and Kazadar was given full command of an expeditionary force to this end.
 
 **Physical Destription** Currently unknown.
 
