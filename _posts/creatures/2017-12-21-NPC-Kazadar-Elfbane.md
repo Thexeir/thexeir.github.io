@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "Durim Fjallhammer"
+title: "Kazadar Elf-Bane"
 date: 2017-12-21
-tags: [dwarf, npc, mithrilco]
+tags: [dwarf, npc, mwh]
 ---
 
-**Bio** This 274 year old longbeard is one of the three leaders of Mithril Company. He has served in twelve wars, three of which he was a battlefield commander.
+**Bio** The leader of Mithril Warhammers, Kazadar was the one to slay the elven king Tar'Elithilad and for this deed he was given the name Elf-bane, formerly he was Kazadar Tallhammer.
 
-**Physical Destription** Stocky with dark brown eyes and a long grey beard, decorated with ornate bronze clasps and a few trophies. He is bald and is generally seen wearing his bronze colored steel breastplate with his warhammer clasped to his belt.
+**Physical Destription** Currently unknown.
 
-**Quirks** He speaks with a heavy slavic accent and generally takes in as much information as he can and thinks long and hard before responding.
+**Quirks** Currently unknown.
 
 **Dwarf Fighter**
 
 ---
-> ## Durim Fjallhammer
+> ## Kazadar Elf-bane
 >*Medium humanoid, lawful neutral*
 
 |STR|DEX|CON|INT|WIS|CHA|
