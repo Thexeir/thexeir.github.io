@@ -16,9 +16,11 @@ tags: [creature, beast]
 > - **Armor Class** 13 (Natural Armor)
 > - **Hit Points** 37 (5d10 + 10)
 > - **Speed** 40 ft., fly 40 ft.
+
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|15 (+2)|15 (+2)|3 (-4)|12 (+1)|7 (-2)|
+
 > - **Skills** Perception +6, Stealth +3, Acrobatics +4
 > - **Senses** Darkvision 60ft., passive Perception 16
 > - **Languages** —

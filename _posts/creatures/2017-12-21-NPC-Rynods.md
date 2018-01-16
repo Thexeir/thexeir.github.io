@@ -16,9 +16,11 @@ tags: [creature, beast]
 > - **Armor Class** 11 (Natural Armor)
 > - **Hit Points** 45 (6d10 + 12)
 > - **Speed** 40 ft., Climb 10ft. (Unburdened)
+
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|8 (-1)|15 (+2)|2 (-4)|12 (+1)|6 (-2)|
+
 > - **Senses** passive Perception 11
 > - **Languages** —
 > - **Challenge** 2 (450XP)
