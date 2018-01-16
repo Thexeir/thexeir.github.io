@@ -5,7 +5,9 @@ date: 2017-12-21
 tags: [creature, beast]
 ---
 **Bio** Wolfhawks are predators native to Kraddos. They tend to hunt in packs like the wolves of their namesake.
+
 **Physical Description** The creatures body resembles a wolf with feathers instead of fur. While on the ground they look much like a wolf save their large feathered tails. When they take off their front legs spread and reveal their wings. Their colors tend to be that of wolves, black, white, timber, grey, brown and variations in between.
+
 **Quirks** These creatures are generally hostile, but can be tamed with the proper care.
 ---
 > ## Wolfhawk

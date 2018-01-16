@@ -17,4 +17,11 @@ title: Mithril Company Database
 			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
 		{% endfor %}
 	</ul>
+	<h2>Creatures</h2>
+	<ul class="posts">
+		{% assign sorted = (site.tags.creature | sort: 'title') %}
+		{% for item in sorted %}
+			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
 </div>
