@@ -65,9 +65,9 @@ article p {
     font-size: 1.2em;
 }
 header {
-    padding: 0 0 3em 0;
+    padding: 0 0 0em 0;
     border-bottom: .1em solid #d5d5d5;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 table {
     border: .1em solid #d5d5d5;
