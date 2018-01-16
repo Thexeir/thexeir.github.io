@@ -8,8 +8,8 @@ tags: [creature, beast]
 
 **Physical Description** Large creatures covered in fur, resembling rhinos. The horn structure on their snout varies by breed, which the dwarves have created over the years through selective breeding. Some of these horn structures are for practical purposes, like goreing enemies on the battlefield or rooting around the earth while others are ornamental. Their horns are usually browns, blacks and whites and their fur takes on similar colors.
 
-
 **Quirks** Domesticated rynods tend to be temperamental beasts and generally only respond to those who have put in the time to form a bond with them. During the War of Bones it became necessary to breed stock that is more willing to be handled by various owners and riders, this breed is considered inferior to others, but nonetheless serves it's purpose.
+
 ---
 > ## Rynod
 >*Large beast, unaligned*

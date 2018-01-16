@@ -28,28 +28,4 @@ title: Mithril Company Database
 			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
 		{% endfor %}
 	</ul>
-<hr>
-	<h2>Half-elf</h2>
-	<ul class="posts">
-		{% assign sorted = (site.tags.halfelf | sort: 'title') %}
-		{% for item in sorted %}
-			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
-		{% endfor %}
-	</ul>
-<hr>
-	<h2>Halfling</h2>
-	<ul class="posts">
-		{% assign sorted = (site.tags.halfling | sort: 'title') %}
-		{% for item in sorted %}
-			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
-		{% endfor %}
-	</ul>
-<hr>
-	<h2>Half-orc</h2>
-	<ul class="posts">
-		{% assign sorted = (site.tags.halforc | sort: 'title') %}
-		{% for item in sorted %}
-			<li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
-		{% endfor %}
-	</ul>
 </div>

@@ -9,6 +9,7 @@ tags: [creature, beast]
 **Physical Description** The creatures body resembles a wolf with feathers instead of fur. While on the ground they look much like a wolf save their large feathered tails. When they take off their front legs spread and reveal their wings. Their colors tend to be that of wolves, black, white, timber, grey, brown and variations in between.
 
 **Quirks** These creatures are generally hostile, but can be tamed with the proper care.
+
 ---
 > ## Wolfhawk
 >*Medium beast, unaligned*
