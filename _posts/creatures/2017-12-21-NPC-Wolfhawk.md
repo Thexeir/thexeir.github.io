@@ -5,6 +5,8 @@ date: 2017-12-21
 tags: [creature, beast]
 ---
 
+---
+
 > ## Wolfhawk
 >*Medium beast, unaligned*
 > - **Armor Class** 13 (Natural Armor)
