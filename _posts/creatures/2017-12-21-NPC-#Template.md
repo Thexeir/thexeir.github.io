@@ -7,7 +7,7 @@ tags: [npc]
 
 **Bio** A biography.
 
-**Physical Destription** A physical description.
+**Physical Description** A physical description.
 
 **Quirks** Accents and other notable personality traits
 

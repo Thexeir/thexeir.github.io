@@ -7,7 +7,7 @@ tags: [beast, npc]
 
 **Bio** This is a horse, of course.
 
-**Physical Destription** It's a white fucking horse.
+**Physical Description** It's a white fucking horse.
 
 **Quirks** It's still a fucking horse, it probably hates minorities, fucking racist horse.
 

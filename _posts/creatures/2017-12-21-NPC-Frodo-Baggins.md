@@ -7,7 +7,7 @@ tags: [halfling, npc]
 
 **Bio** This guy carries some super rough burdens.
 
-**Physical Destription** Young, short and with furry feet.
+**Physical Description** Young, short and with furry feet.
 
 **Quirks** He puts on a brave face, but is dying slowly.
 

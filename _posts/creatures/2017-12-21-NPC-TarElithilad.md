@@ -7,7 +7,7 @@ tags: [elf, npc]
 
 **Bio** The now deceased king of the elves.
 
-**Physical Destription** N/A
+**Physical Description** N/A
 
 **Quirks** N/A
 

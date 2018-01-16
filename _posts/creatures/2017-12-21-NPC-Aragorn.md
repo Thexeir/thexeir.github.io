@@ -7,7 +7,7 @@ tags: [halfelf, npc]
 
 **Bio** This guy is old and is, like, totally suppose to be this king, but doesn't want to, because like, his great grandpappy was an asshole.
 
-**Physical Destription** White guy, trys to look brooding all the time, but doesn't do it as well as Jon Snow.
+**Physical Description** White guy, trys to look brooding all the time, but doesn't do it as well as Jon Snow.
 
 **Quirks** Doesn't want to embrace his destiny because he's kind of a bitch.
 
