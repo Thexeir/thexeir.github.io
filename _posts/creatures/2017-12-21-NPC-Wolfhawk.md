@@ -25,6 +25,7 @@ tags: [creature, beast]
 > ***Swoop. *** If the wolfhawk flies at least 15 feet straight toward a target and then hits it with a bite attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+
 ---
 
 **Bio** Wolfhawks are predators native to Kraddos. They tend to hunt in packs like the wolves of their namesake.
